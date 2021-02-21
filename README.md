@@ -7,3 +7,6 @@ Esp32_SoilMoisture_WebServer_DataLog_Int_RTC.ino requires an micro sd card and i
 Full build instructions on https://www.instructables.com/id/ESP32-WiFi-SOIL-MOISTURE-SENSOR/
 
 I am a hobbyist, not a ingineer or programmer. The code is nothing but efficient. Feel free to improve.
+
+I'll try to add REST service and battery status to the sensor.
+An additional identification measures shall be implemented in order to distinct between more than one sesor.
